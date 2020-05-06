@@ -1,1 +1,3 @@
 I am learning github.
+I am making a new branch called develop.
+I am also making a new branch called feature.
